@@ -17,213 +17,213 @@
       <priority>1</priority>
   </url>
   <url>
-    <loc>http://www.stonevillapelion.gr/booking.php/</loc>
+    <loc>http://www.stonevillapelion.gr/booking/</loc>
       <xhtml:link
         rel="alternate"
         hreflang="x-default"
-        href="http://www.stonevillapelion.gr/booking.php/"/>
+        href="http://www.stonevillapelion.gr/booking/"/>
       <xhtml:link
         rel="alternate"
         hreflang="en"
-        href="http://www.stonevillapelion.gr/booking.php/"/>
+        href="http://www.stonevillapelion.gr/booking/"/>
       <xhtml:link
         rel="alternate"
         hreflang="el"
-        href="http://www.stonevillapelion.gr/gr/booking.php/"/>
+        href="http://www.stonevillapelion.gr/gr/booking/"/>
       <priority>0.9</priority>
   </url>
   <url>
-    <loc>http://www.stonevillapelion.gr/location.php/</loc>
+    <loc>http://www.stonevillapelion.gr/location/</loc>
       <xhtml:link
         rel="alternate"
         hreflang="x-default"
-        href="http://www.stonevillapelion.gr/location.php/"/>
+        href="http://www.stonevillapelion.gr/location/"/>
       <xhtml:link
         rel="alternate"
         hreflang="en"
-        href="http://www.stonevillapelion.gr/location.php/"/>
+        href="http://www.stonevillapelion.gr/location/"/>
       <xhtml:link
         rel="alternate"
         hreflang="el"
-        href="http://www.stonevillapelion.gr/gr/location.php/"/>
+        href="http://www.stonevillapelion.gr/gr/location/"/>
       <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.stonevillapelion.gr/gallery.php/</loc>
+    <loc>http://www.stonevillapelion.gr/gallery/</loc>
       <xhtml:link
         rel="alternate"
         hreflang="x-default"
-        href="http://www.stonevillapelion.gr/gallery.php/"/>
+        href="http://www.stonevillapelion.gr/gallery/"/>
       <xhtml:link
         rel="alternate"
         hreflang="en"
-        href="http://www.stonevillapelion.gr/gallery.php/"/>
+        href="http://www.stonevillapelion.gr/gallery/"/>
       <xhtml:link
         rel="alternate"
         hreflang="el"
-        href="http://www.stonevillapelion.gr/gr/gallery.php/"/>
+        href="http://www.stonevillapelion.gr/gr/gallery/"/>
       <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.stonevillapelion.gr/info.php/</loc>
+    <loc>http://www.stonevillapelion.gr/info/</loc>
       <xhtml:link
         rel="alternate"
         hreflang="x-default"
-        href="http://www.stonevillapelion.gr/info.php/"/>
+        href="http://www.stonevillapelion.gr/info/"/>
       <xhtml:link
         rel="alternate"
         hreflang="en"
-        href="http://www.stonevillapelion.gr/info.php/"/>
+        href="http://www.stonevillapelion.gr/info/"/>
       <xhtml:link
         rel="alternate"
         hreflang="el"
-        href="http://www.stonevillapelion.gr/gr/info.php/"/>
+        href="http://www.stonevillapelion.gr/gr/info/"/>
       <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.stonevillapelion.gr/contact.php/</loc>
+    <loc>http://www.stonevillapelion.gr/contact/</loc>
       <xhtml:link
         rel="alternate"
         hreflang="x-default"
-        href="http://www.stonevillapelion.gr/contact.php/"/>
+        href="http://www.stonevillapelion.gr/contact/"/>
       <xhtml:link
         rel="alternate"
         hreflang="en"
-        href="http://www.stonevillapelion.gr/contact.php/"/>
+        href="http://www.stonevillapelion.gr/contact/"/>
       <xhtml:link
         rel="alternate"
         hreflang="el"
-        href="http://www.stonevillapelion.gr/gr/contact.php/"/>
+        href="http://www.stonevillapelion.gr/gr/contact/"/>
       <priority>0.9</priority>
   </url>
   <url>
-    <loc>http://www.stonevillapelion.gr/index.php/</loc>
+    <loc>http://www.stonevillapelion.gr/index/</loc>
       <xhtml:link
         rel="alternate"
         hreflang="x-default"
-        href="http://www.stonevillapelion.gr/index.php/"/>
+        href="http://www.stonevillapelion.gr/index/"/>
       <xhtml:link
         rel="alternate"
         hreflang="en"
-        href="http://www.stonevillapelion.gr/index.php/"/>
+        href="http://www.stonevillapelion.gr/index/"/>
       <xhtml:link
         rel="alternate"
         hreflang="el"
-        href="http://www.stonevillapelion.gr/gr/index.php/"/>
+        href="http://www.stonevillapelion.gr/gr/index/"/>
       <priority>0.5</priority>
   </url>
 
   <!-- Greek Version -->
   <url>
-    <loc>http://www.stonevillapelion.gr/gr/index.php/</loc>
+    <loc>http://www.stonevillapelion.gr/gr/index/</loc>
       <xhtml:link
         rel="alternate"
         hreflang="x-default"
-        href="http://www.stonevillapelion.gr/index.php/"/>
+        href="http://www.stonevillapelion.gr/index/"/>
       <xhtml:link
         rel="alternate"
         hreflang="en"
-        href="http://www.stonevillapelion.gr/index.php/"/>
+        href="http://www.stonevillapelion.gr/index/"/>
       <xhtml:link
         rel="alternate"
         hreflang="el"
-        href="http://www.stonevillapelion.gr/gr/index.php/"/>
+        href="http://www.stonevillapelion.gr/gr/index/"/>
       <priority>1</priority>
   </url>
   <url>
-    <loc>http://www.stonevillapelion.gr/gr/booking.php/</loc>
+    <loc>http://www.stonevillapelion.gr/gr/booking/</loc>
       <xhtml:link
         rel="alternate"
         hreflang="x-default"
-        href="http://www.stonevillapelion.gr/booking.php/"/>
+        href="http://www.stonevillapelion.gr/booking/"/>
       <xhtml:link
         rel="alternate"
         hreflang="en"
-        href="http://www.stonevillapelion.gr/booking.php/"/>
+        href="http://www.stonevillapelion.gr/booking/"/>
       <xhtml:link
         rel="alternate"
         hreflang="el"
-        href="http://www.stonevillapelion.gr/gr/booking.php/"/>
+        href="http://www.stonevillapelion.gr/gr/booking/"/>
       <priority>0.9</priority>
   </url>
   <url>
-    <loc>http://www.stonevillapelion.gr/gr/location.php/</loc>
+    <loc>http://www.stonevillapelion.gr/gr/location/</loc>
       <xhtml:link
         rel="alternate"
         hreflang="x-default"
-        href="http://www.stonevillapelion.gr/location.php/"/>
+        href="http://www.stonevillapelion.gr/location/"/>
       <xhtml:link
         rel="alternate"
         hreflang="en"
-        href="http://www.stonevillapelion.gr/location.php/"/>
+        href="http://www.stonevillapelion.gr/location/"/>
       <xhtml:link
         rel="alternate"
         hreflang="el"
-        href="http://www.stonevillapelion.gr/gr/location.php/"/>
+        href="http://www.stonevillapelion.gr/gr/location/"/>
       <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.stonevillapelion.gr/gr/gallery.php/</loc>
+    <loc>http://www.stonevillapelion.gr/gr/gallery/</loc>
       <xhtml:link
         rel="alternate"
         hreflang="x-default"
-        href="http://www.stonevillapelion.gr/gallery.php/"/>
+        href="http://www.stonevillapelion.gr/gallery/"/>
       <xhtml:link
         rel="alternate"
         hreflang="en"
-        href="http://www.stonevillapelion.gr/gallery.php/"/>
+        href="http://www.stonevillapelion.gr/gallery/"/>
       <xhtml:link
         rel="alternate"
         hreflang="el"
-        href="http://www.stonevillapelion.gr/gr/gallery.php/"/>
+        href="http://www.stonevillapelion.gr/gr/gallery/"/>
       <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.stonevillapelion.gr/gr/info.php/</loc>
+    <loc>http://www.stonevillapelion.gr/gr/info/</loc>
       <xhtml:link
         rel="alternate"
         hreflang="x-default"
-        href="http://www.stonevillapelion.gr/info.php/"/>
+        href="http://www.stonevillapelion.gr/info/"/>
       <xhtml:link
         rel="alternate"
         hreflang="en"
-        href="http://www.stonevillapelion.gr/info.php/"/>
+        href="http://www.stonevillapelion.gr/info/"/>
       <xhtml:link
         rel="alternate"
         hreflang="el"
-        href="http://www.stonevillapelion.gr/gr/info.php/"/>
+        href="http://www.stonevillapelion.gr/gr/info/"/>
       <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.stonevillapelion.gr/gr/contact.php/</loc>
+    <loc>http://www.stonevillapelion.gr/gr/contact/</loc>
       <xhtml:link
         rel="alternate"
         hreflang="x-default"
-        href="http://www.stonevillapelion.gr/contact.php/"/>
+        href="http://www.stonevillapelion.gr/contact/"/>
       <xhtml:link
         rel="alternate"
         hreflang="en"
-        href="http://www.stonevillapelion.gr/contact.php/"/>
+        href="http://www.stonevillapelion.gr/contact/"/>
       <xhtml:link
         rel="alternate"
         hreflang="el"
-        href="http://www.stonevillapelion.gr/gr/contact.php/"/>
+        href="http://www.stonevillapelion.gr/gr/contact/"/>
       <priority>0.9</priority>
   </url>
   <url>
-    <loc>http://www.stonevillapelion.gr/gr/index.php/</loc>
+    <loc>http://www.stonevillapelion.gr/gr/index/</loc>
       <xhtml:link
         rel="alternate"
         hreflang="x-default"
-        href="http://www.stonevillapelion.gr/index.php/"/>
+        href="http://www.stonevillapelion.gr/index/"/>
       <xhtml:link
         rel="alternate"
         hreflang="en"
-        href="http://www.stonevillapelion.gr/index.php/"/>
+        href="http://www.stonevillapelion.gr/index/"/>
       <xhtml:link
         rel="alternate"
         hreflang="el"
-        href="http://www.stonevillapelion.gr/gr/index.php/"/>
+        href="http://www.stonevillapelion.gr/gr/index/"/>
       <priority>0.5</priority>
   </url>
 </urlset>
