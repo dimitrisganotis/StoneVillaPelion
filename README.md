@@ -19,7 +19,7 @@ The database files are included in the database folder.
 
 [StoneVillaPelion](http://www.stonevillapelion.gr/)
 
-***
+## License
 
-*Feel free to use the code for personal use. For any other use pleasy contact me first. Thank you!*
+Feel free to use the code for ***personal*** use. For any other use please contact me first. Thank you!
 
