@@ -1,6 +1,6 @@
 # StoneVillaPelion
 
-A **custom** hotel website created for the StoneVillaPelion apartment from scratch.
+A **custom** hotel website created for the StoneVillaPelion apartment from scratch. The design of the website was requested by the owner of StoneVillaPelion, as well as the functionality.
 
 ## Database
 
@@ -12,7 +12,7 @@ The database files are included in the database folder.
 * CSS, Bootstrap, Animate.css, Lightbox ...
 * Javascript
 * Jquery & Jquery Datepicker
-* CodeIgniter - PHP MVC Framework
+* **CodeIgniter** - PHP MVC Framework
 * MySQL
 
 ## Links
