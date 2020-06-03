@@ -29,7 +29,7 @@
   <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/lightbox.min.css'); ?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/animate.css'); ?>">
   <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/style.css'); ?>">
-  
+
 	<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 </head>
 <body>
@@ -47,11 +47,12 @@
   <!-- start: Navigation -->
 	<nav id="nav">
 		<ul>
-			<li style="animation-delay: 0.0s;" class="animated bounceInLeft slow"><a <?php if($title  == "Κράτηση") echo 'id="active"'; ?> href="<?php echo site_url('gr/booking'); ?>">Κράτηση</a></li>
-      <li style="animation-delay: 0.2s;" class="animated bounceInLeft slow"><a <?php if($title == "Τοποθεσία") echo 'id="active"'; ?> href="<?php echo site_url('gr/location'); ?>">Τοποθεσία</a></li>
-      <li style="animation-delay: 0.4s;" class="animated bounceInLeft slow"><a <?php if($title == "Φωτογραφίες") echo 'id="active"'; ?> href="<?php echo site_url('gr/gallery'); ?>">Φωτογραφίες</a></li>
-      <li style="animation-delay: 0.6s;" class="animated bounceInLeft slow"><a <?php if($title == "Πληροφορίες") echo 'id="active"'; ?> href="<?php echo site_url('gr/info'); ?>">Πληροφορίες</a></li>
-      <li style="animation-delay: 0.8s;" class="animated bounceInLeft slow"><a <?php if($title == "Επικοινωνία") echo 'id="active"'; ?> href="<?php echo site_url('gr/contact'); ?>">Επικοινωνία</a></li>
+      <li style="animation-delay: 0.0s; margin-bottom: 4rem;" class="animated bounceInLeft slow"><a <?php if($title == "Covid-19") echo 'id="active"'; ?> href="<?php echo site_url('gr/covid_19'); ?>">Covid-19</a></li>
+			<li style="animation-delay: 0.2s;" class="animated bounceInLeft slow"><a <?php if($title  == "Κράτηση") echo 'id="active"'; ?> href="<?php echo site_url('gr/booking'); ?>">Κράτηση</a></li>
+      <li style="animation-delay: 0.4s;" class="animated bounceInLeft slow"><a <?php if($title == "Τοποθεσία") echo 'id="active"'; ?> href="<?php echo site_url('gr/location'); ?>">Τοποθεσία</a></li>
+      <li style="animation-delay: 0.6s;" class="animated bounceInLeft slow"><a <?php if($title == "Φωτογραφίες") echo 'id="active"'; ?> href="<?php echo site_url('gr/gallery'); ?>">Φωτογραφίες</a></li>
+      <li style="animation-delay: 0.8s;" class="animated bounceInLeft slow"><a <?php if($title == "Πληροφορίες") echo 'id="active"'; ?> href="<?php echo site_url('gr/info'); ?>">Πληροφορίες</a></li>
+      <li style="animation-delay: 1.0s;" class="animated bounceInLeft slow"><a <?php if($title == "Επικοινωνία") echo 'id="active"'; ?> href="<?php echo site_url('gr/contact'); ?>">Επικοινωνία</a></li>
 		</ul>
 	</nav>
   <!-- end: Navigation -->

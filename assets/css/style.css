@@ -602,14 +602,14 @@ table {
 @media (max-width: 1165px) {
 	#main {
 		width: 100%;
-		text-align: right;
+		text-align: left;
 		padding-left: 3rem;
 	}
 
 	#main_absolute {
 		width: 100%;
 		margin: 0 1.5rem;
-		text-align: right;
+		text-align: left;
 		padding-left: 3rem;
 	}
 
