@@ -46,9 +46,9 @@
 			$arrival = '0'.$arrival;
 
 		if($day>0 && $day<3)
-			$departure = '0'.$departure;	
+			$departure = '0'.$departure;
   ?>
-  
+
 </head>
 
 <body id="homepage_body">
@@ -66,34 +66,12 @@
   <!-- start: Navigation -->
   <nav id="nav" style="background: none">
     <ul>
-      <!--
-      <li id="booking_btn" style="animation-delay: 0.0s;" class="animated bounceInLeft slow" onclick="toogleBooking()"><a <?php if($title == "Booking") echo 'id="active"'; ?> href="#booking">Booking</a></li>
-
-      <div id="booking" class="animated fadeIn">
-        <?php echo form_open('booking'); ?>
-          <div class="form_border">
-            <div class="input_field">
-              <label for="arrival">ARRIVAL</label>
-              <input id="arrival" type="date" name="arrival" placeholder="Enter Your Arrival Date" min="<?php echo date("Y-m-d"); ?>" style="font-size: 1.25em;" value="<?php echo $year.'-'.$month.'-'.$arrival; ?>" required>
-            </div>
-            <div class="input_field">
-              <label for="departure">DEPARTURE</label>
-              <input id="departure" type="date" name="departure" placeholder="Enter Your Departure Date" min="<?php echo date("Y-m-d"); ?>" style="font-size: 1.25em;" value="<?php echo $year.'-'.$month.'-'.$departure; ?>" required>
-            </div>
-            <div class="input_field small">
-              <small>Maximum accommodtion is 6 people</small>
-            </div>
-            <input id="submit" name="submit" type="submit" value="CHECK AVAILABILITY" onclick="loading();">
-          </div>
-        </form>
-      </div>
-      -->
-
-      <li style="animation-delay: 0.0s;" class="animated bounceInLeft slow"><a <?php if($title == "Booking") echo 'id="active"'; ?> href="/booking">Booking</a></li>
-      <li style="animation-delay: 0.1s;" class="animated bounceInLeft slow"><a <?php if($title == "Location") echo 'id="active"'; ?> href="/location">Location</a></li>
-      <li style="animation-delay: 0.2s;" class="animated bounceInLeft slow"><a <?php if($title == "Gallery") echo 'id="active"'; ?> href="/gallery">Gallery</a></li>
-      <li style="animation-delay: 0.3s;" class="animated bounceInLeft slow"><a <?php if($title == "Info") echo 'id="active"'; ?> href="/info">Info</a></li>
-      <li style="animation-delay: 0.4s;" class="animated bounceInLeft slow"><a <?php if($title == "Contact") echo 'id="active"'; ?> href="/contact">Contact</a></li>
+      <li style="animation-delay: 0.0s; margin-bottom: 4rem;" class="animated bounceInLeft slow"><a <?php if($title == "Covid-19") echo 'id="active"'; ?> href="<?php echo site_url('covid_19'); ?>">Covid-19</a></li>
+      <li style="animation-delay: 0.1s;" class="animated bounceInLeft slow"><a <?php if($title == "Booking") echo 'id="active"'; ?> href="/booking">Booking</a></li>
+      <li style="animation-delay: 0.2s;" class="animated bounceInLeft slow"><a <?php if($title == "Location") echo 'id="active"'; ?> href="/location">Location</a></li>
+      <li style="animation-delay: 0.3s;" class="animated bounceInLeft slow"><a <?php if($title == "Gallery") echo 'id="active"'; ?> href="/gallery">Gallery</a></li>
+      <li style="animation-delay: 0.4s;" class="animated bounceInLeft slow"><a <?php if($title == "Info") echo 'id="active"'; ?> href="/info">Info</a></li>
+      <li style="animation-delay: 0.5s;" class="animated bounceInLeft slow"><a <?php if($title == "Contact") echo 'id="active"'; ?> href="/contact">Contact</a></li>
     </ul>
   </nav>
   <!-- end: Navigation -->

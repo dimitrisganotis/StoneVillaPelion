@@ -45,11 +45,12 @@
   <!-- start: Navigation -->
 	<nav id="nav">
 		<ul>
-			<li style="animation-delay: 0.0s;" class="animated bounceInLeft slow"><a <?php if($title == "Booking") echo 'id="active"'; ?> href="<?php echo site_url('booking'); ?>">Booking</a></li>
-      <li style="animation-delay: 0.2s;" class="animated bounceInLeft slow"><a <?php if($title == "Location") echo 'id="active"'; ?> href="<?php echo site_url('location'); ?>">Location</a></li>
-      <li style="animation-delay: 0.4s;" class="animated bounceInLeft slow"><a <?php if($title == "Gallery") echo 'id="active"'; ?> href="<?php echo site_url('gallery'); ?>">Gallery</a></li>
-      <li style="animation-delay: 0.6s;" class="animated bounceInLeft slow"><a <?php if($title == "Info") echo 'id="active"'; ?> href="<?php echo site_url('info'); ?>">Info</a></li>
-      <li style="animation-delay: 0.8s;" class="animated bounceInLeft slow"><a <?php if($title == "Contact") echo 'id="active"'; ?> href="<?php echo site_url('contact'); ?>">Contact</a></li>
+			<li style="animation-delay: 0.0s; margin-bottom: 4rem;" class="animated bounceInLeft slow"><a <?php if($title == "Covid-19") echo 'id="active"'; ?> href="<?php echo site_url('covid_19'); ?>">Covid-19</a></li>
+			<li style="animation-delay: 0.2s;" class="animated bounceInLeft slow"><a <?php if($title == "Booking") echo 'id="active"'; ?> href="<?php echo site_url('booking'); ?>">Booking</a></li>
+			<li style="animation-delay: 0.4s;" class="animated bounceInLeft slow"><a <?php if($title == "Location") echo 'id="active"'; ?> href="<?php echo site_url('location'); ?>">Location</a></li>
+			<li style="animation-delay: 0.6s;" class="animated bounceInLeft slow"><a <?php if($title == "Gallery") echo 'id="active"'; ?> href="<?php echo site_url('gallery'); ?>">Gallery</a></li>
+			<li style="animation-delay: 0.8s;" class="animated bounceInLeft slow"><a <?php if($title == "Info") echo 'id="active"'; ?> href="<?php echo site_url('info'); ?>">Info</a></li>
+			<li style="animation-delay: 1.0s;" class="animated bounceInLeft slow"><a <?php if($title == "Contact") echo 'id="active"'; ?> href="<?php echo site_url('contact'); ?>">Contact</a></li>
 		</ul>
 	</nav>
   <!-- end: Navigation -->

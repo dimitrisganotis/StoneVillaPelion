@@ -4,6 +4,9 @@
 
   <a href="/<?php
     switch ($title) {
+      case 'Covid-19':
+        echo 'covid_19';
+        break;
       case 'Κράτηση':
         echo 'booking';
         break;

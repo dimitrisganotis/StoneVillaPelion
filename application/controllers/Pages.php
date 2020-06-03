@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
@@ -20,6 +20,20 @@ class Pages extends CI_Controller {
     $this->metadata['description'] = 'Stone Villa Pelion is a luxury apartment, ideal for summer holidays, overlooking the beach of Afissos.';
 
     $this->load->view('public/pages/index', $this->metadata);
+  }
+
+  // Covid-19 Page
+  public function covid_19() {
+    if(!file_exists('application/views/public/pages/covid-19.php'))
+      show_404();
+
+    $this->metadata['title'] = 'Covid-19';
+    $this->metadata['keywords'] = 'Stone Villa Pelion, Covid-19, letter';
+    $this->metadata['description'] = 'Stone Villa Pelion letter for Covid-19.';
+
+    $this->load->view('public/includes/header', $this->metadata);
+    $this->load->view('public/pages/covid-19');
+    $this->load->view('public/includes/footer');
   }
 
   // Location Page
